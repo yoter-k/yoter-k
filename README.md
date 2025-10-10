@@ -27,6 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yoter-k/yoter-k/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/yoter-k/yoter/blob/output/snake.svg)
 
 ###
